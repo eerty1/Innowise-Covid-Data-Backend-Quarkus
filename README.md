@@ -4,13 +4,13 @@ Backend Java Quarkus application to consume and process API
 
 ## Task Requirements
 
-Разработать и имплементировать API, который позволяет найти для указаннного списка стран:
+Develop an API which allows to calculate the following data for the selected list of countries
 
-* Максимальное и минимальное число новых случаев в день / за указанный период.
+* Maximum and minimum number of new COVID cases per day / for the specified period.
 
-* Данные получать из [API](https://covid19api.com)
+Consume data from [API](https://covid19api.com )
 
-Использовать: **Quarkus** и **GraalVM**
+Use: **Quarkus** и **GraalVM**
 
 Peculiarities:
 
